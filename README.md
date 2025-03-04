@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Lukas Raja Agripa! 👋<br><br>🎓 **About Me**  <br>� A passionate Informatics student at **Bandung Institute of Technology**, currently in my **fourth semester**.  <br>💻 Driven by curiosity and a love for problem-solving, I’m deeply passionate about **Web Development**, **Mobile Apps**, **Artificial Intelligence**, and **Machine Learning**. Beyond these, I’m always exploring new areas of tech to grow as a developer and contribute meaningfully to the world.  <br>🌱 Always diving into new technologies and exploring innovative solutions to tackle real-world challenges.  <br>
+Hi there, I'm Lukas Raja Agripa! 👋<br><br>🎓 **About Me**  <br>💁🏼‍♂️ A passionate Informatics student at **Bandung Institute of Technology**, currently in my **fourth semester**.  <br>💻 Driven by curiosity and a love for problem-solving, I’m deeply passionate about **Web Development**, **Mobile Apps**, **Artificial Intelligence**, and **Machine Learning**. Beyond these, I’m always exploring new areas of tech to grow as a developer and contribute meaningfully to the world.  <br>🌱 Always diving into new technologies and exploring innovative solutions to tackle real-world challenges.  <br>
 
 
 ## 🌐 Socials:
