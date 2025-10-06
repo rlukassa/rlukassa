@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./awal_gataukenapa.gif" width="300" height="200"/>
+  <img src="./awal_gataukenapa.gif" />
 </div>
 
 ### Konnichiwa! Welcome to my digital realm! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="./awal.gif"/>
+  <img src="./awal.gif" width="300" height="200" />
 </div>
 
 ![](https://komarev.com/ghpvc/?username=rlukassa&label=Profile%20Visits&color=blueviolet&style=for-the-badge)
@@ -95,7 +95,7 @@
   <i>literally me when coding at 2am...</i>
 </div>
 
-## 🎭 College Task Momentos - *On a Anime GIF *
+## 🎭 College Task Momentos - *On a Anime GIF*
 <i> hanya kepingan yang pernah terjadi -- just to keep the moments saved <i>
 
 <div align="center">
