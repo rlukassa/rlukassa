@@ -18,7 +18,7 @@
 - 💻 Passionate about **Web Development**, **Mobile Apps**, **AI & ML** 
 - 🌱 Currently diving deep into **Machine Learning** and **Full-Stack Development**
 - 🎯 Always exploring new tech stacks and building cool projects
-- 🎮 Fun fact: I debug code better with anime music on! 
+- 🎮 Fun fact: *meh~*
 - ⚡ Goal: Transform caffeine into clean code ☕→💻
 
 <div align="center">
