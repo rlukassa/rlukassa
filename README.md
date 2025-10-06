@@ -1,7 +1,7 @@
 ### Konnichiwa! Welcome to my digital realm! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="200" height="150"/>
+  <img src="./anime-cry.gif"/>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=rlukassa&label=Profile%20Visits&color=blueviolet&style=for-the-badge)
@@ -17,7 +17,7 @@
 - 🎮 Fun fact: I debug code better with anime music on! 
 - ⚡ Goal: Transform caffeine into clean code ☕→💻
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="programming meme" align="right" width="200" height="auto" />
+
 
 ## 🌐 Let's Connect!
 
@@ -86,15 +86,11 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 <div align="center">
-  <img src="https://media.tenor.com/CxNvTjJZHoUAAAAd/tis100-sad-anime-girl.gif" width="300" height="200"/>
-  <br>
-  <i>Me when debugging at 3 AM</i>
+  <img src="./anime-coding.gif"/>
 </div>
 
 <div align="center">
   <img src="https://media.tenor.com/V8wI7qFjes0AAAA1/anime-programmer.webp" width="350" height="200"/>
-  <br>
-  <i>Coding like an anime protagonist! 🔥</i>
 </div>
 
 
@@ -124,4 +120,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <b>Current Status:</b> <i>Turning coffee into code...</i> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+</div>
+
+<div align="center">
+  <img src="./funny-spider-man.gif" width="300" height="200"/>
 </div>
