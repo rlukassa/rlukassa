@@ -21,15 +21,21 @@
 - 🎮 Fun fact: I debug code better with anime music on! 
 - ⚡ Goal: Transform caffeine into clean code ☕→💻
 
+<div align="center">
+  <img src="./meme_center.gif" width="300" height="200"/>
+  <br>
+  <i>literally me when coding at 2am...</i>
+</div>
+
+<div align="center">
+  <img src="https://media.tenor.com/V8wI7qFjes0AAAA1/anime-programmer.webp" width="400" height="200"/>
+</div>
 
 
 ## 🌐 Let's Connect!
 
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30"/>](https://instagram.com/rlukassa) [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/>](https://www.linkedin.com/in/lukas-raja-agripa-0365372a5/) [<img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" height="30"/>](https://quora.com/profile/Lukass.) [<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30"/>](mailto:lukasagripa27@gmail.com)
 
-<div align="center">
-  <img src="https://media.tenor.com/V8wI7qFjes0AAAA1/anime-programmer.webp" width="400" height="200"/>
-</div>
 
 ## 💻 Tech Arsenal & Battle Weapons
 
@@ -89,11 +95,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<div align="center">
-  <img src="./meme_center.gif" width="300" height="200"/>
-  <br>
-  <i>literally me when coding at 2am...</i>
-</div>
 
 ## 🎭 College Task Momentos - *On a Anime GIF*
 <i> hanya kepingan yang pernah terjadi -- just to keep the moments saved <i>
