@@ -105,7 +105,7 @@
 <br>
 <i>Me during IRK assignments...</i>
 
-### LabPro Task Momentos  
+### Labpro Task Momentos  
 <img src="./labpro.gif" width="280" height="180"/>
 <br>
 <i>Me on data stucture and oop projects...</i>
@@ -115,7 +115,7 @@
 <br>
 <i>Me trying to connect on computer network...</i>
 
-### BasDat Task Momentos
+### Basdat Task Momentos
 <img src="./basdat.gif" width="280" height="180"/>
 <br>
 <i>Me writing SQL queries on docs and linux ubuntu while see the database scheme...</i>
