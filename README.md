@@ -22,13 +22,13 @@
 - ⚡ Goal: Transform caffeine into clean code ☕→💻
 
 <div align="center">
-  <img src="./meme_center.gif" width="300" height="200"/>
-  <br>
-  <i>literally me when coding at 2am...</i>
+  <img src="https://media.tenor.com/V8wI7qFjes0AAAA1/anime-programmer.webp" width="400" height="200"/>
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/V8wI7qFjes0AAAA1/anime-programmer.webp" width="400" height="200"/>
+  <img src="./meme_center.gif" width="300" height="200"/>
+  <br>
+  <i>literally me when coding at 2am...</i>
 </div>
 
 
