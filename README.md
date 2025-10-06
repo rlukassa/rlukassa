@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./awal.gif" width="300" height="200"/>
+</div>
+
 ### Konnichiwa! Welcome to my digital realm! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
@@ -86,11 +90,35 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 <div align="center">
-  <img src="./anime-coding.gif"/>
+  <img src="./meme_center.gif" width="300" height="200"/>
+  <br>
+  <i>literally me when coding at 2am...</i>
 </div>
 
+## 🎭 College Task Momentos - *My Anime Journey*
+
 <div align="center">
-  <img src="https://media.tenor.com/V8wI7qFjes0AAAA1/anime-programmer.webp" width="350" height="200"/>
+
+### IRK Task Momentos
+<img src="./gif_irk.gif" width="280" height="180"/>
+<br>
+<i>literally me during IRK assignments...</i>
+
+### LabPro Task Momentos  
+<img src="./gif_labpro.gif" width="280" height="180"/>
+<br>
+<i>literally me debugging lab projects...</i>
+
+### Sister Task Momentos
+<img src="./gif_sister.gif" width="280" height="180"/>
+<br>
+<i>literally me mentoring juniors...</i>
+
+### BasDat Task Momentos
+<img src="./gif_basdat.gif" width="280" height="180"/>
+<br>
+<i>literally me writing SQL queries...</i>
+
 </div>
 
 
@@ -104,7 +132,7 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=rlukassa&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rlukassa&theme=radical&hide_border=true)
 
@@ -123,5 +151,7 @@
 </div>
 
 <div align="center">
-  <img src="./funny-spider-man.gif" width="300" height="200"/>
+  <img src="./sister.gif" width="300" height="200"/>
+  <br>
+  <i>literally me saying goodbye...</i>
 </div>
