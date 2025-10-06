@@ -108,7 +108,7 @@
 ### Labpro Task Momentos  
 <img src="./labpro.gif" width="280" height="180"/>
 <br>
-<i>Me on data stucture and oop projects...</i>
+<i>Me on data structures and oop projects... </i>
 
 ### Sister Task Momentos
 <img src="./sister.gif" width="280" height="180"/>
