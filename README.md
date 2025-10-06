@@ -28,7 +28,7 @@
 <div align="center">
   <img src="./meme_center.gif" width="300" height="200"/>
   <br>
-  <i>literally me when coding at 2am...</i>
+  <i> <b>just memes</b>: literally me when coding at 2am...</i>
 </div>
 
 
