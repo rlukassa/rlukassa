@@ -5,7 +5,17 @@
 ### Konnichiwa! Welcome to my digital realm! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="./anime-cry.gif"/>
+  <img src="./anime_gataukenapa.gif"/>
+</div>
+
+---
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="./awal.gif"/>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=rlukassa&label=Profile%20Visits&color=blueviolet&style=for-the-badge)
@@ -95,29 +105,30 @@
   <i>literally me when coding at 2am...</i>
 </div>
 
-## 🎭 College Task Momentos - *My Anime Journey*
+## 🎭 College Task Momentos - *On a Anime GIF *
+<i> hanya kepingan yang pernah terjadi -- just to keep the moments saved <i>
 
 <div align="center">
 
 ### IRK Task Momentos
-<img src="./gif_irk.gif" width="280" height="180"/>
+<img src="./irk.gif" width="280" height="180"/>
 <br>
-<i>literally me during IRK assignments...</i>
+<i>Me during IRK assignments...</i>
 
 ### LabPro Task Momentos  
-<img src="./gif_labpro.gif" width="280" height="180"/>
+<img src="./labpro.gif" width="280" height="180"/>
 <br>
-<i>literally me debugging lab projects...</i>
+<i>Me on data stucture and oop projects...</i>
 
 ### Sister Task Momentos
-<img src="./gif_sister.gif" width="280" height="180"/>
+<img src="./sister.gif" width="280" height="180"/>
 <br>
-<i>literally me mentoring juniors...</i>
+<i>Me trying to connect on computer network...</i>
 
 ### BasDat Task Momentos
-<img src="./gif_basdat.gif" width="280" height="180"/>
+<img src="./basdat.gif" width="280" height="180"/>
 <br>
-<i>literally me writing SQL queries...</i>
+<i>Me writing SQL queries on docs and linux ubuntu while see the database scheme...</i>
 
 </div>
 
@@ -151,7 +162,7 @@
 </div>
 
 <div align="center">
-  <img src="./sister.gif" width="300" height="200"/>
+  <img src="./footer.gif" width="300" height="200"/>
   <br>
-  <i>literally me saying goodbye...</i>
+  <i>Hanupis!</i>
 </div>
