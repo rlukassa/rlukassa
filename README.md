@@ -29,15 +29,16 @@
 > nano rlukassa 
 ```
 
-<img align="left" src="https://media.tenor.com/I52W87bM7K8AAAAi/anime-aaaa.gif" alt="rlukassa" width="200" /> 
+<img align="left" src="https://media.tenor.com/I52W87bM7K8AAAAi/anime-aaaa.gif" alt="rlukassa" width="260" /> 
 
 ```csharp
->> rlukassa@github.com                              [ver. March 2026]
+>> rlukassa@github.com                       [ver. March 2026]
 -------------------------
 Pronouns      : He/Him
 Location      : Indonesia - Worldwide
 Major         : Computer Science @ ITB (Final Year)
 Passionate    : Fullstack Development, AI/ML 
+Projects now  : SWE @ ??? 
 Currently into: AWS Cloud Computing and Infrastructure 
 Specialized   : Angular, Ruby on Rails, AWS  
 Fun fact      : ~meh
