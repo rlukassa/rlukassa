@@ -29,7 +29,7 @@
 > nano rlukassa 
 ```
 
-<img align="left" src="https://media.tenor.com/I52W87bM7K8AAAAi/anime-aaaa.gif" alt="rlukassa" width="240" /> 
+<img align="left" src="https://media.tenor.com/I52W87bM7K8AAAAi/anime-aaaa.gif" alt="rlukassa" width="210" /> 
 
 ```csharp
 >> rlukassa@github.com                       [ver. March 2026]
