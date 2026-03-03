@@ -26,7 +26,7 @@
 
 
 ```zsh
-> echo rlukassa 
+> cat rlukassa 
 ```
 
 <img align="left" src="https://media.tenor.com/I52W87bM7K8AAAAi/anime-aaaa.gif" alt="rlukassa" width="210" /> 
