@@ -1,10 +1,12 @@
-<video src="vid.mp4" width="200" autoplay loop muted playsinline>
-</video>
+<div>
+  <img src="./vid.gif" />
+</div>
+
 
 ### Konnichiwa! Welcome to my digital realm! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="./awal_gataukenapa.gif" />
+  <img src="./vid2.gif" />
 </div>
 
 <div align="center">
