@@ -1,10 +1,7 @@
-<img src="./vid.gif" />
-
-
-
 ### Konnichiwa! Welcome to my digital realm! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
+  <img src="./vid.gif" />
   <img src="./vid2.gif" />
 </div>
 
