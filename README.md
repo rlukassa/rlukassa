@@ -35,8 +35,8 @@ Pronouns      : He/Him
 Location      : Indonesia - Worldwide
 Major         : Computer Science @ ITB (Final Year)
 Passionate    : Fullstack Development, AI/ML 
-Projects now  : SWE @ ??? [REDACTED as NDA] 
-Currently into: AWS Cloud Computing and Infrastructure 
+Projects now  : R&D Applied Machine Learning Engineer [REDACTED as NDA] 
+Currently into: AWS Cloud Computing, SWE Infrastructure, Machine Learning
 Specialized   : Angular, Ruby on Rails, AWS  
 Fun fact      : ~meh
 
